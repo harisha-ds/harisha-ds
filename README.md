@@ -1,3 +1,4 @@
+![logo](https://github.com/harisha-ds/harisha-ds/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Harisha Thoparapu</h1>
 <h3 align="center">Certified Datascience Professional @OdinSchool </h3>
 <h4 align="center">Skills: Excel,MySQL,PowerBI,Python,Stats,ETL DataPipelines,BigQuery,LookerStudio. </h4>
